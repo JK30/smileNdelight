@@ -1,0 +1,60 @@
+/**** Common Css starts here ***/
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+h1{
+    font-size: 62px;
+}
+h2{
+    font-size: 54px;
+}
+h3{
+    font-size: 46px;
+}
+h4{
+    font-size: 38px;
+}
+h5{
+    font-size: 30px;
+}
+h6{
+    font-size: 22px;
+}
+p,li{
+    font-size: 18px;
+}
+header {
+    width: 20%;
+    float: left;
+}
+nav {
+    width: 80%;
+    float: right;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #e85800;
+}
+.logo {
+    font-size: 30px;
+    margin: 20px;
+}
+.logo a {
+    text-decoration: none;
+        color: #e85800;
+}
+/**** Common Css ends here ***/
